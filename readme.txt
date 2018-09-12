@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks of changes.
  I love JZY forever.
  I love it.
+ AAAAAAA
